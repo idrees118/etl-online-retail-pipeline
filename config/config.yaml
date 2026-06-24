@@ -1,0 +1,4 @@
+paths:
+  raw_data: data/raw/OnlineRetail.csv
+  output_dir: data/output
+  log_dir: logs
